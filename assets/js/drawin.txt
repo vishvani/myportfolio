@@ -1,0 +1,87 @@
+Founded in 2015 with a vision to transform the interaction between workforce and technology,
+
+Around the world in 2023, over 684 companies have started using Darwinbox as HRMS tool.
+
+Rohit Chennamaneni - Co Founder
+
+Darwinbox is the leading provider of cloud-based Human Resources Management Software (HRMS). Our SaaS platform engages and empowers employees across the entire lifecycle (hire-to-retire) with a smarter, simpler & mobile-first HR Tech experience powered by Artificial Intelligence (AI) and Machine Learning (ML)
+
+HITEC City, Hyderabad, 
+
+The three top industries that use Darwinbox for HRMS are Technology (21), Artificial Intelligence (17), E-Commerce (16).
+
+The majority of Darwinbox’s customers for the hrms category fall in the company size of 1,000 - 4,999 employees (158 companies), 
+
+The top three geographies of Darwinbox for hrms are the India with 459(60.63%), United States with 147(19.42%), Indonesia with 21(2.77%) customers respectively.
+
+
+Top 5 HRMS technologies in 2023
+Over 438,609 companies are using HRMS tools. Indeed with 7.82% market share (34,311 customers), Qualtrics with 7.70% market share (33,770 customers), Trello with 7.22% market share (31,663 customers),
+
+Darwinbox has market share of 0.17% in hrms market
+
+Current Customer(s) 
+757
+
+Darwinbox is funded by 13 investors. State Bank of India and Microsoft are the most recent investors.
+
+
+
+Darwinbox is a human resource management software designed to help businesses handle various administrative operations 
+such as attendance tracking, payroll management, employee engagement, expense management, talent management, analytics,
+ and more on a centralized platform.
+
+Software-as-a-Service (SaaS)
+
+Shortest path problem
+Dijkstra's algorithm
+Floyd–Warshall algorithm
+Bellman–Ford algorithm
+Kruskal's algorithm
+Prim's algorithm
+Minimum spanning tree
+
+“I should be hired for this role because of my relevant skills, experience, and passion for the industry. I've researched the company and can add value to its growth. My positive attitude, work ethics, and long-term goals align with the job requirements, making me a committed and valuable asset to the company.”
+
+HR
+Do you have any serious medical issues?
+Did you ever have a conflict with your current/previous boss or professor?
+What do your friends/co-workers say about you?
+What did you do in the last year to improve your knowledge?
+Do you know anyone who works for us?
+Why should we hire you? or Why should I hire you?
+What are your salary expectations?
+What was the toughest decision you ever had to make?
+If you won a Rs.10-crore lottery, would you still work?
+Give me an example of your creativity.
+
+
+
+TECH
+Oops concepts Data abstraction,
+polymorphism
+Networking
+what is an API
+project explaination
+What is hoisting? 
+If I have a Boolean variable set to true and I perform add operation with any integer, what will be the output? 
+What is ng-content used for? What is shallow copying and deep copying? 
+Write logic to deep copy nested objects? 
+Disadvantages of assign and spread operator? 
+Consider that you have an event function already. Write a logic to redirect to a page if screen is idle for 2 seconds.
+
+
+coding
+Special Sum
+Rat In A Maze
+Check If The String Is A Palindrome
+URL Shortener
+Print Nodes at Distance K From a Given Node
+Pair Sum
+Minimum insertions to make a string palindrome
+SQL Question
+Use of order by and having clause
+Missing Number
+Spiral Matrix
+Middle Of Linked List
+
